@@ -4,6 +4,6 @@ print('Hello, world!!!')
 
 while True:
     print('test message')
-    time.sleep(1)
+    time.sleep(3)
 
 
